@@ -14,7 +14,8 @@
       {
         "title": "AutoSubs",
         "width": 780,
-        "height": 680
+        "height": 680,
+        "closable": true
       }
     ],
     "security": {
