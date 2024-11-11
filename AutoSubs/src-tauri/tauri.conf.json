@@ -22,7 +22,13 @@
       "csp": null,
       "assetProtocol": {
         "enable": false,
-        "scope": ["~/Documents/AutoSubs/Transcripts/**", "~/Desktop/**", "~/Documents/**", "~/Downloads/**"]
+        "scope": [
+          "~/Documents/AutoSubs/Transcripts/**",
+          "~/Desktop/**",
+          "~/Documents/**",
+          "~/Downloads/**",
+          "/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Utility/AutoSubsV2/Transcription-Server/transcription-server"
+        ]
       }
     }
   },
