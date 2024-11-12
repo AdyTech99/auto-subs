@@ -26,8 +26,7 @@
           "~/Documents/AutoSubs/Transcripts/**",
           "~/Desktop/**",
           "~/Documents/**",
-          "~/Downloads/**",
-          "/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Utility/AutoSubsV2/Transcription-Server/transcription-server"
+          "~/Downloads/**"
         ]
       }
     }
@@ -41,6 +40,9 @@
       "icons/128x128@2x.png",
       "icons/icon.icns",
       "icons/icon.ico"
-    ]
+    ],
+    "macOS": {
+      "signingIdentity": "Developer ID Application: THOMAS PATRICK MORONEY (88HTAX87W2)"
+    }
   }
 }
