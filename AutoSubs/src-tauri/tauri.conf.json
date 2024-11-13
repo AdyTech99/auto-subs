@@ -21,12 +21,12 @@
     "security": {
       "csp": null,
       "assetProtocol": {
-        "enable": false,
+        "enable": true,
         "scope": [
-          "~/Documents/AutoSubs/Transcripts/**",
-          "~/Desktop/**",
-          "~/Documents/**",
-          "~/Downloads/**"
+          "$DOCUMENT/AutoSubs-Storage/**",
+          "$DESKTOP/**",
+          "$DOCUMENT/**",
+          "$DOWNLOAD/**"
         ]
       }
     }
