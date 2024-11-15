@@ -23,7 +23,7 @@
       "assetProtocol": {
         "enable": true,
         "scope": [
-          "$DOCUMENT/AutoSubs-Storage/**",
+          "/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Utility/**",
           "$DESKTOP/**",
           "$DOCUMENT/**",
           "$DOWNLOAD/**"
